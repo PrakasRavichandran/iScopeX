@@ -1,6 +1,5 @@
-# CV19 Oscilloscope
+# iScopeX 
 Virtual oscilloscope that uses WebAudio, WebSerial, and WebGL to display the signal from the audio input or serial COM port.
-Inspired by [Academo](https://academo.org/demos/virtual-oscilloscope/).
 
 ## Functionality
 - Audio input from microphone jack
@@ -20,8 +19,3 @@ It's possible to use Arduino and Webserial to probe the low-frequency signal. Th
 - Connect D9 to A0.
 - The 100Hz square wave will be shown in the virtual scope.  
 
-## Screenshot
-
-![Screenshot1](./img/screenshot_1.jpg?raw=true)
-
-![Screenshot2](./img/screenshot_2.jpg?raw=true)
