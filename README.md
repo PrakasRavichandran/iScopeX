@@ -1,4 +1,8 @@
-# iScopeX 
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/iScopeX/main/icon.png" width="144" align="right" hspace="0" />
+
+✨ &nbsp; iScopeX 
+======
+
 Virtual oscilloscope that uses WebAudio, WebSerial, and WebGL to display the signal from the audio input or serial COM port.
 
 ## Functionality
