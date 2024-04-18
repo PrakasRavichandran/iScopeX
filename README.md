@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PrakasRavichandran/iScopeX/main/icon.png" width="144" align="right" hspace="0" />
+<img src="https://raw.githubusercontent.com/PrakasRavichandran/prakashravichandran.netlify.app/main/public/media/projects/icons/oscilloscope.png?token=GHSAT0AAAAAACKRAOP3IZROUEEXOGFY236UZRBAGEA" width="144" align="right" hspace="0" />
 
 ✨ &nbsp; iScopeX 
 ======
